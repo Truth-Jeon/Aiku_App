@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 공통 -->
+    <string name="aiku">AiKU</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="next">다음</string>
+    <string name="profile_image">프로필 이미지</string>
+    <string name="chip_navigation_icon_content_description">칩 아이콘</string>
+    <string name="empty_content_description">콘텐츠 없음</string>
+    <string name="create">생성하기</string>
+
+    <!-- 로그인 -->
+    <string name="aiku_slogan">아이쿠! 또 지각이네?!</string>
+    <string name="kakao_login">카카오 로그인</string>
+    <string name="kakao_account_login">다른 아이디로 로그인</string>
+
+    <!-- 이용 약관 동의 -->
+    <string name="terms_welcome_aiku">AiKU에\n오신 것을 환영합니다!</string>
+    <string name="terms_agree_start">동의하고 시작하기</string>
+    <string name="terms_agree_all">전체 동의</string>
+    <string name="terms_agree_item1">서비스 이용약관</string>
+    <string name="terms_agree_item2">개인정보 보호 동의</string>
+    <string name="terms_agree_item3">위치기반 서비스 이용약관</string>
+    <string name="terms_agree_item4">마케팅 수신 동의</string>
+    <string name="terms_agree_required">(필수)</string>
+    <string name="terms_agree_optional">(선택)</string>
+    <!-- 체크 박스 -->
+    <string name="check_mark">체크마크</string>
+    <string name="text_hi">Hi!</string>
+
+    <!-- 기본 캐릭터 -->
+    <string name="character_man">기본 캐릭터1</string>
+    <string name="character_baby">기본 캐릭터2</string>
+    <string name="character_scratch">기본 캐릭터3</string>
+    <string name="character_girl">기본 캐릭터4</string>
+    <string name="character_nohair">대머리 캐릭터</string>
+
+    <!-- 프로필 생성 -->
+    <string name="profile_setup_instruction">친구들에게 보여질\n프로필을 만들어주세요!</string>
+    <string name="profile_nickname_setup_placeholder">이름을 입력하세요</string>
+    <string name="profile_nickname_setup_label">최대 6자 입력이 가능합니다.</string>
+    <string name="profile_image_setup_content_description">프로필 이미지 설정</string>
+    <string name="profile_phone_number_setup_placeholder">010 0000 0000</string>
+    <string name="already_exist_nickname">이미 존재하는 닉네임입니다.</string>
+    <string name="select_using_default_character">기본 캐릭터로 선택</string>
+    <string name="select_using_album">앨범에서 선택</string>
+    <string name="select_character">캐릭터를 선택해주세요!</string>
+    <string name="default_character_content_description">기본 캐릭터</string>
+
+    <!-- 홈 -->
+    <string name="home_today_schedule">오늘 내 약속</string>
+    <string name="home_no_schedule">아직 약속이 없어요</string>
+
+    <!-- navigation -->
+    <string name="nav_home">홈</string>
+    <string name="nav_mySchedule">내 약속</string>
+    <string name="nav_mypage">마이</string>
+
+    <!-- 그룹 -->
+    <string name="group_name">그룹 이름</string>
+    <string name="group_name_setup_placeholder">그룹 이름을 입력하세요</string>
+    <string name="group_name_setup_label">최대 15자 입력이 가능합니다</string>
+
+    <!-- 그룹 -->
+    <string name="group_more_icon_content_description">그룹 설정</string>
+    <string name="invite">초대하기</string>
+    <string name="member">멤버</string>
+    <string name="invite_member">멤버 초대하기</string>
+    <string name="schedule">약속</string>
+    <string name="analyze_group">그룹 분석</string>
+    <string name="exit_group">그룹 나가기</string>
+    <string name="exit">나가기</string>
+    <string name="exit_group_message">%s에서 나가시겠습니까?</string>
+    <string name="group_no_member_content_description">그룹에 멤버 없음</string>
+    <string name="suggest_invite_member">멤버를 초대해 보세요!</string>
+
+    <!-- 약속 -->
+    <string name="schedule_running">진행 중</string>
+    <string name="schedule_waiting">대기 중</string>
+    <string name="schedule_before_participation">참가 전</string>
+    <string name="schedule_terminated">종료</string>
+    <string name="location_content_description">위치</string>
+    <string name="create_schedule_content_description">약속 생성</string>
+    <string name="group_no_schedule_content_description">그룹에 약속 없음</string>
+    <string name="suggest_create_schedule">약속을 만들어 주세요!</string>
+    <string name="create_schedule">+ 약속 만들기</string>
+    <string name="enter_schedule">입장하기</string>
+    <string name="select_participate_option">참가 옵션을 선택해 주세요!</string>
+    <string name="participation_fee">참가비</string>
+    <string name="require_advertise_for_handicap">· 광고 시청 필수</string>
+    <string name="alert_1vs1_racing_unavailable">· 1:1 레이싱 사용 불가</string>
+    <string name="participate_option_normal">일반 참가</string>
+    <string name="participate_option_handicap">깍두기</string>
+    <string name="schedule_calendar_content_description">날짜</string>
+    <string name="remaining_time">남은 시간</string>
+    <string name="participated_members">참여 멤버</string>
+
+    <!-- 알림 -->
+    <string name="notification">알림</string>
+    <string name="notification_all">전체</string>
+    <string name="notification_schedule">약속</string>
+    <string name="notification_racing">레이싱</string>
+    <string name="notification_aku">아쿠</string>
+    <string name="notification_event">이벤트</string>
+    <string name="no_notification_yet">아직 알림이 없어요!</string>
+    <string name="notification_all_title">알림 전체</string>
+    <string name="notification_schedule_title">약속</string>
+    <string name="notification_racing_title">1:1 레이싱</string>
+    <string name="notification_aku_title">아쿠</string>
+    <string name="notification_event_title">이벤트</string>
+
+    <!-- 상점 -->
+    <string name="store">상점</string>
+
+    <!-- 마이페이지 -->
+    <string name="my_page">마이페이지</string>
+    <string name="edit_profile">프로필 편집</string>
+    <string name="badge">칭호</string>
+    <string name="my_aku">내 아쿠</string>
+    <string name="go_to_store">상점 바로가기</string>
+    <string name="item_notification_setting">알림</string>
+    <string name="item_account">계정</string>
+    <string name="item_see_terms">약관 확인</string>
+    <string name="item_set_permissions">권한 설정</string>
+    <string name="item_inquiry">1:1문의</string>
+    <string name="item_help">도움말</string>
+    <string name="item_give_rating">별점 남기기</string>
+    <string name="notification_item_push">푸시 알림</string>
+    <string name="notification_item_advertisement">광고 알림</string>
+    <string name="terms_item_service">서비스 이용약관</string>
+    <string name="terms_item_privacy">개인정보 보호 동의</string>
+    <string name="terms_item_location">위치 기반 서비스 이용약관</string>
+    <string name="terms_item_marketing">마케팅 정보 수신 동의</string>
+    <string name="how_to_help">무엇을 도와드릴까요?</string>
+    <string name="input_inquiry_title">문의할 내용의 제목을 입력하세요.</string>
+    <string name="input_inquiry_content">문의할 내용을 입력하세요.</string>
+    <string name="check_user_information">답변을 받으실 정보가 맞나요?</string>
+    <string name="user_name">사용자 이름</string>
+    <string name="terms_item_collect_privacy">개인정보 수집 및 이용 동의</string>
+
+</resources>
